@@ -64,8 +64,8 @@ The objective of this project is to develop a robust predictive modeling framewo
    ```
 4.  **Initialize DVC:**
 
-    ```bash
-   dvc init
-   ```
+ ```bash
+dvc init
+
 
 
