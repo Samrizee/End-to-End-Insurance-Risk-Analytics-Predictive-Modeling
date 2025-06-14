@@ -58,11 +58,12 @@ The objective of this project is to develop a robust predictive modeling framewo
 
    ```
 3.  **Install DVC:**
-    ```bash
+   
+   ```bash
    pip install dvc
-
    ```
 4.  **Initialize DVC:**
+
     ```bash
    dvc init
    ```
